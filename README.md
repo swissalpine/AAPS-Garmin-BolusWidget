@@ -13,5 +13,3 @@ https://github.com/swissalpine/AndroidAPS/tree/3.3.3-mod-alpha/plugins/sync/src/
 If AAPS has been modified in this way, the widgets must be built with VisualStudio Code and installed on the watch via sideloading.
 
 Once again: Just because it works for me, I cannot guarantee that it will work for you. If in doubt, it's better to leave this!
-
-Translated with DeepL.com (free version)
